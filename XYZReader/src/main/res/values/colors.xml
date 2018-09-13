@@ -22,4 +22,23 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+    <!--   color for the app bar and other primary UI elements -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!--   a darker variant of the primary color, used for
+           the status bar (on Android 5.0+) and contextual app bars -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!--   a secondary color for controls like checkboxes and text fields -->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textColorBlack">#000000</color>
+
+    <color name="textColorBlack_">#000000</color>
+
+    <color name="activityBackground">#ffffff</color>
+
+    <color name="activityListBackground">#ffffff</color>
+
 </resources>
